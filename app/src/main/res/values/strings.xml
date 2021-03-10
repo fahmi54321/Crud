@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Crud</string>
+
+    <string-array name="agama">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+</resources>
